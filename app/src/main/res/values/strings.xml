@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Bluetooth STT ArduinoCar</string>
+    <string name="device_null">Device Null. Can\'t connect</string>
+    <string name="device_connected">Device connected successfully!</string>
+    <string name="speech_prompt">Say something…</string>
+    <string name="speech_not_supported">Sorry! Your device doesn\'t support speech input</string>
+    <string name="tap_on_mic">Chạm để ghi âm</string>
+</resources>
